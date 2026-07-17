@@ -17,6 +17,7 @@ A computação em nuvem permite acessar recursos de TI pela internet de forma fl
 
 
 Resumo da segunda parte do módulo:
+
 ☁️ Benefícios da Nuvem Azure
 📈 Escalabilidade e Elasticidade
 Escalabilidade: aumenta ou reduz recursos conforme a demanda.
