@@ -14,3 +14,20 @@ OpEx: pagamento pelo uso dos serviços em nuvem (sem alto custo inicial).
 📌 Resumo final
 
 A computação em nuvem permite acessar recursos de TI pela internet de forma flexível e escalável. As empresas podem escolher entre nuvem pública, privada ou híbrida e, em vez de investir em infraestrutura própria (CapEx), podem pagar apenas pelo que utilizam (OpEx).
+
+
+Resumo da segunda parte do módulo:
+☁️ Benefícios da Nuvem Azure
+📈 Escalabilidade e Elasticidade
+Escalabilidade: aumenta ou reduz recursos conforme a demanda.
+Elasticidade: ajuste automático de recursos em tempo real.
+🔒 Confiabilidade, Previsibilidade e Segurança
+Confiabilidade: alta disponibilidade e redundância.
+Previsibilidade: desempenho e custos mais controlados.
+Segurança: proteção de dados, criptografia e controle de acesso.
+⚙️ Governança e Gerenciabilidade
+Governança: define políticas, regras e conformidade.
+Gerenciabilidade: monitoramento, automação e administração centralizada dos recursos.
+💡 Resumo em uma frase
+
+A Azure permite escalar recursos quando necessário, oferece alta disponibilidade e segurança, além de facilitar o gerenciamento e o controle da infraestrutura.
