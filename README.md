@@ -32,3 +32,40 @@ Gerenciabilidade: monitoramento, automação e administração centralizada dos 
 💡 Resumo em uma frase
 
 A Azure permite escalar recursos quando necessário, oferece alta disponibilidade e segurança, além de facilitar o gerenciamento e o controle da infraestrutura.
+
+Resumo da terceira parte do módulo:
+
+☁️ Tipos de Serviço de Nuvem na Azure
+🖥️ IaaS (Infrastructure as a Service)
+A Azure fornece a infraestrutura (VMs, rede, armazenamento).
+O cliente gerencia o sistema operacional, aplicações e dados.
+Maior controle, maior responsabilidade.
+
+Exemplo: Máquina Virtual (Azure Virtual Machines).
+
+⚙️ PaaS (Platform as a Service)
+A Azure gerencia infraestrutura, sistema operacional e ambiente.
+O cliente foca apenas na aplicação e nos dados.
+Ideal para desenvolvimento de software.
+
+Exemplo: Azure App Service.
+
+📦 SaaS (Software as a Service)
+A aplicação já vem pronta para uso.
+O provedor gerencia tudo.
+O usuário apenas utiliza o software.
+
+Exemplo: Microsoft 365, Outlook Online.
+
+🤝 Modelo de Responsabilidade Compartilhada
+Responsabilidade da Microsoft
+Infraestrutura física.
+Data centers.
+Rede.
+Hardware.
+Segurança física.
+Responsabilidade do Cliente
+Dados.
+Contas e identidades.
+Configurações de acesso.
+Aplicações (dependendo do serviço).
